@@ -71,7 +71,6 @@ body {
 }
 
 /* NAVBAR */
-
 .navbar {
     width: 100%;
     background-color: #171a20;
@@ -168,9 +167,7 @@ body {
     cursor: pointer;
 }
 
-
 /* HERO SECTION */
-
 .hero {
     width: 100%;
     min-height: 620px;
@@ -187,7 +184,6 @@ body {
 }
 
 /* HERO TEXT */
-
 .hero-text {
     flex: 1;
     max-width: 580px;
@@ -222,7 +218,6 @@ body {
 }
 
 /* HERO BUTTONS */
-
 .hero-buttons {
     display: flex;
     align-items: center;
@@ -262,7 +257,6 @@ body {
 }
 
 /* HERO INFORMATION */
-
 .hero-info {
     display: flex;
     align-items: center;
@@ -282,7 +276,6 @@ body {
 }
 
 /* HERO IMAGE */
-
 .hero-image {
     flex: 1;
     max-width: 520px;
@@ -298,7 +291,6 @@ body {
 }
 
 /* IMAGE INFORMATION CARD */
-
 .hero-image-card {
     position: absolute;
     bottom: 25px;
@@ -336,7 +328,6 @@ body {
 
 
 /* ABOUT SECTION */
-
 .about {
     width: 100%;
     padding: 100px 0;
@@ -351,7 +342,6 @@ body {
 }
 
 /* ABOUT IMAGE */
-
 .about-image {
     flex: 1;
     max-width: 500px;
@@ -367,7 +357,6 @@ body {
 }
 
 /* IMAGE BADGE */
-
 .about-image-badge {
     position: absolute;
     bottom: 25px;
@@ -404,7 +393,6 @@ body {
 }
 
 /* ABOUT TEXT */
-
 .about-text {
     flex: 1;
     max-width: 550px;
@@ -439,7 +427,6 @@ body {
 }
 
 /* ABOUT FEATURES */
-
 .about-features {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -471,7 +458,6 @@ body {
 }
 
 /* ABOUT BUTTON */
-
 .about-btn {
     display: inline-block;
     padding: 14px 23px;
@@ -491,7 +477,6 @@ body {
 
 
 /* SERVICES SECTION */
-
 .services {
     width: 100%;
     padding: 100px 0;
@@ -499,7 +484,6 @@ body {
 }
 
 /* SERVICES HEADER */
-
 .services-header {
     max-width: 650px;
     margin: 0 auto 55px;
@@ -534,7 +518,6 @@ body {
 }
 
 /* SERVICES GRID */
-
 .services-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -542,7 +525,6 @@ body {
 }
 
 /* SERVICE CARD */
-
 .service-card {
     background-color: #ffffff;
     padding: 32px 28px;
@@ -558,7 +540,6 @@ body {
 }
 
 /* SERVICE ICON */
-
 .service-icon {
     width: 58px;
     height: 58px;
@@ -572,7 +553,6 @@ body {
 }
 
 /* SERVICE TEXT */
-
 .service-card h3 {
     color: #171a20;
     font-size: 18px;
@@ -588,7 +568,6 @@ body {
 }
 
 /* SERVICE LINK */
-
 .service-link {
     display: inline-block;
     color: #f97316;
@@ -604,7 +583,6 @@ body {
 }
 
 /* SERVICES FOOTER */
-
 .services-footer {
     display: flex;
     align-items: center;
@@ -640,7 +618,6 @@ body {
 
 
 /* WHY CHOOSE US SECTION */
-
 .why-us {
     background-color: #ffffff;
     padding: 100px 0;
@@ -723,10 +700,7 @@ body {
 }
 
 
-/* ==============================
-   SERVICE PROCESS SECTION
-============================== */
-
+/* SERVICE PROCESS SECTION */
 .process {
     background-color: #171a20;
     padding: 100px 0;
@@ -808,7 +782,6 @@ body {
 }
 
 /* RESPONSIVE PROCESS */
-
 @media (max-width: 992px) {
     .process-grid {
         grid-template-columns: repeat(2, 1fr);
@@ -831,7 +804,6 @@ body {
 
 
 /* TESTIMONIAL SECTION */
-
 .testimonials {
     background-color: #f8fafc;
     padding: 100px 0;
@@ -928,7 +900,6 @@ body {
 }
 
 /* RESPONSIVE TESTIMONIAL */
-
 @media (max-width: 992px) {
     .testimonials-grid {
         grid-template-columns: repeat(2, 1fr);
@@ -955,7 +926,6 @@ body {
 
 
 /* RESPONSIVE WHY US */
-
 @media (max-width: 992px) {
     .why-us-grid {
         grid-template-columns: repeat(2, 1fr);
@@ -982,7 +952,6 @@ body {
 
 
 /* RESPONSIVE SERVICES */
-
 @media (max-width: 992px) {
 
     .services-grid {
@@ -1030,7 +999,6 @@ body {
 }
 
 /* RESPONSIVE ABOUT */
-
 @media (max-width: 992px) {
 
     .about-content {
@@ -1090,7 +1058,6 @@ body {
 }
 
 /* RESPONSIVE HERO */
-
 @media (max-width: 992px) {
 
     .hero-content {
